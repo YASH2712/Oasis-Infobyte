@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+ 
+body{
+    background-color: grey;
+}
+
+.container{
+    text-align: center;
+    margin-top: 40px;
+    color: aliceblue;
+}
+.container h2{
+    color: black;
+    text-transform: uppercase;
+    font-size: xx-large;
+    margin-bottom: 20px;
+    text-decoration:underline ;
+    text-shadow: 5px white;
+}
+
+body {margin: 25px;}
+
+        .pic{
+            width: 70%;
+            background-color: black;
+            position: relative;
+            margin-bottom: 30px;
+            left: 210px;
+            justify-content: center;
+            justify-items: center;
+        }
+
+        .container{
+            text-align: center;
+            padding: 5px 5px;
+        }
+        .title{
+            color: white;
+            font-style: italic;
+            font-size: 20px;
+        }
+
+        #biodata{
+            font-family: 'Times New Roman', Times, serif;
+            border-collapse:collapse;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        #biodata td, #biodata th{
+            border: 2px solid black;
+            padding: 5px;
+            margin-top: 10px;
+        }
+
+        .biography{
+            background-color: grey;
+            margin-top: 20px;
+            
+        }
+        .biography h1{
+            color: black;
+            font-size: xx-large;
+            text-transform: capitalize;
+        }
+
+        .biography p{
+            text-align: left;
+            justify-content: center;
+            justify-items: center;
+            font-size: x-large;
+            color: black;
+
+        }
+        .highlight {
+            background-color: transparent;
+            margin-top: 10px;
+         
+        }
+        .highlight h3{
+            color: black;
+            font-size: xx-large;
+            text-transform: capitalize;
+        }
+
+        .highlight p{
+            color: black;
+            text-align: left;
+            font-size: x-large;
+        }
+        .highlight p b{
+            text-decoration: underline;
+        }
